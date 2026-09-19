@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q8: Per-account transaction velocity, suspicious vs normal
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q08_account_velocity.sql
+-- ============================================================

@@ -1,0 +1,28 @@
+# Data — raw Kaggle CSV is ~1GB, never commit it
+data/raw/*.csv
+data/raw/*.zip
+
+# Large sample files (uncomment if sample grows >100MB)
+# data/sample/*.csv
+
+# SQL dumps
+*.sql.dump
+*.dump
+
+# Secrets / environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

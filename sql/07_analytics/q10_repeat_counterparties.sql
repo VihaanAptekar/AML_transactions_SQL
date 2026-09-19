@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q10: Repeated account pairs — same amount, same day
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q10_repeat_counterparties.sql
+-- ============================================================

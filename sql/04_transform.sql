@@ -1,0 +1,5 @@
+-- ============================================================
+-- Step 4: Staging -> transactions (typed + validated)
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/04_transform.sql
+-- ============================================================

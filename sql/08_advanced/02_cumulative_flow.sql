@@ -1,0 +1,5 @@
+-- ============================================================
+-- Advanced 2: Cumulative daily net flow per account (window frames)
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/08_advanced/02_cumulative_flow.sql
+-- ============================================================

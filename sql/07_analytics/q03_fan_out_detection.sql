@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q3: Fan-out — senders spreading funds to many receivers in one day
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q03_fan_out_detection.sql
+-- ============================================================

@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q7: Do suspicious transactions cluster at 00:00-06:00?
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q07_night_transactions.sql
+-- ============================================================

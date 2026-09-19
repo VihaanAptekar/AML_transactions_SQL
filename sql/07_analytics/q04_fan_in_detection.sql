@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q4: Fan-in — receivers collecting from many senders (smurfing)
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q04_fan_in_detection.sql
+-- ============================================================

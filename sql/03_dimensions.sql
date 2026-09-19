@@ -1,0 +1,5 @@
+-- ============================================================
+-- Step 3: Populate dimension tables via INSERT ... SELECT
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/03_dimensions.sql
+-- ============================================================

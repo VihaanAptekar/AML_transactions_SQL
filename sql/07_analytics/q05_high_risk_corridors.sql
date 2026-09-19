@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q5: Highest suspicious-volume country-to-country corridors
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q05_high_risk_corridors.sql
+-- ============================================================

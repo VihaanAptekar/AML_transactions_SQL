@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q2: Structuring — many transactions just below a threshold in a short window
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q02_structuring_detection.sql
+-- ============================================================

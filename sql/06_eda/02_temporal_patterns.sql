@@ -1,0 +1,5 @@
+-- ============================================================
+-- EDA 2: Temporal patterns — by date, hour, weekday
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/06_eda/02_temporal_patterns.sql
+-- ============================================================

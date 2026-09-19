@@ -1,0 +1,5 @@
+-- ============================================================
+-- Views: v_high_risk_accounts, mv-equivalent summary table rebuilds
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/09_views.sql
+-- ============================================================

@@ -1,0 +1,5 @@
+-- ============================================================
+-- Optimization: EXPLAIN ANALYZE before/after index comparison
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/10_optimization/before_after_index.sql
+-- ============================================================

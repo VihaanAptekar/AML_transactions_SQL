@@ -1,0 +1,5 @@
+-- ============================================================
+-- Step 0: Create the database
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/00_setup_database.sql
+-- ============================================================

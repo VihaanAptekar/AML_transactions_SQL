@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q11: Amount thresholds separating normal vs suspicious (NTILE/PERCENT_RANK)
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q11_amount_threshold_analysis.sql
+-- ============================================================

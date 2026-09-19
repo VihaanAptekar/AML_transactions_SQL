@@ -1,0 +1,5 @@
+-- ============================================================
+-- EDA 3: Geographic patterns — locations, corridors
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/06_eda/03_geographic_patterns.sql
+-- ============================================================

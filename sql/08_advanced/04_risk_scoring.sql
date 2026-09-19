@@ -1,0 +1,5 @@
+-- ============================================================
+-- Advanced 4: Build account_risk_scores — weighted composite + LOW/MED/HIGH bands
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/08_advanced/04_risk_scoring.sql
+-- ============================================================

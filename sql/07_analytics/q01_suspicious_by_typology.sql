@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q1: Distribution of suspicious transactions across laundering typologies
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q01_suspicious_by_typology.sql
+-- ============================================================

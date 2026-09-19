@@ -1,0 +1,5 @@
+-- ============================================================
+-- EDA 4: Currency and payment-type distributions
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/06_eda/04_currency_payment.sql
+-- ============================================================

@@ -1,0 +1,5 @@
+-- ============================================================
+-- Advanced 1: Recursive CTE — trace multi-hop transaction chains (depth cap 3)
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/08_advanced/01_transaction_chains.sql
+-- ============================================================

@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q9: Round amounts (multiples of 5000/10000) suspicious vs normal
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q09_round_amounts.sql
+-- ============================================================

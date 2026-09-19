@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q12: Statistical signature of each typology
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q12_typology_signature.sql
+-- ============================================================

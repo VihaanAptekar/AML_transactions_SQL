@@ -1,0 +1,5 @@
+-- ============================================================
+-- Q6: Currency mismatch as a suspicious-transaction signal
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/07_analytics/q06_currency_mismatch.sql
+-- ============================================================

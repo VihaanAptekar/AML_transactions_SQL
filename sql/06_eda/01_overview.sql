@@ -1,0 +1,5 @@
+-- ============================================================
+-- EDA 1: Dataset overview — row counts, class balance, date range
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/06_eda/01_overview.sql
+-- ============================================================

@@ -1,0 +1,5 @@
+-- ============================================================
+-- Advanced 3: Peer-group anomaly detection (NTILE / PERCENT_RANK)
+-- Database: aml_db (MySQL 8.0+)
+-- Run: mysql -u root -p aml_db < sql/08_advanced/03_peer_group_anomaly.sql
+-- ============================================================
