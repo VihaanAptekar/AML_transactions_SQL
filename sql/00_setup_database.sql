@@ -1,5 +1,5 @@
--- ============================================================
--- Step 0: Create the database
--- Database: aml_db (MySQL 8.0+)
--- Run: mysql -u root -p aml_db < sql/00_setup_database.sql
--- ============================================================
+create database if not exists aml_database
+	character set utf8mb4
+    collate utf8mb4_0900_ai_ci;
+
+use aml_database;
